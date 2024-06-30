@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: mc-app
-        image: klavs1055/k8s:4
+        image: klavs1055/k8s:5
         ports:
         - containerPort: 8080
 ---
